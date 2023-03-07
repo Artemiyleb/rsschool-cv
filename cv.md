@@ -2,7 +2,7 @@
 
 # Artem Lebedev
 
-![Artem Lebedev](./artem.jpg "My photo")
+![Artem Lebedev](https://github.com/Artemiyleb/rsschool-cv/blob/gh-pages/artem.jpg "My photo")
 
 ### Junior Frontend Developer
 ***
