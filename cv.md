@@ -2,7 +2,7 @@
 
 # Artem Lebedev
 
-![Artem Lebedev](/img/artem.jpg "My photo")
+![Artem Lebedev](/artem.jpg "My photo")
 
 ### Junior Frontend Developer
 ***
