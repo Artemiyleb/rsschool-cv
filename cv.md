@@ -2,7 +2,7 @@
 
 # Artem Lebedev
 
-![Artem Lebedev](/artem.jpg "My photo")
+![Artem Lebedev](./artem.jpg "My photo")
 
 ### Junior Frontend Developer
 ***
@@ -60,7 +60,7 @@ HTML Academy - Profession "Frontend Developer" (completed)
 
 RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
 
-![HTML Academy certificate](/eng-cert.jpg "HTML Academy certificate")
+![HTML Academy certificate](./eng-cert.jpg "HTML Academy certificate")
 
 ***
 
