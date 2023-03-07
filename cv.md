@@ -2,9 +2,10 @@
 
 # Artem Lebedev
 
-![Artem Lebedev](https://github.com/Artemiyleb/rsschool-cv/blob/gh-pages/artem.jpg "My photo")
+![Artem Lebedev](https://user-images.githubusercontent.com/95182741/223406184-573b1982-f990-42ab-a8d8-6093098c64de.jpg)
 
 ### Junior Frontend Developer
+
 ***
 ### Contact information:
 
@@ -60,11 +61,11 @@ HTML Academy - Profession "Frontend Developer" (completed)
 
 RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
 
-![HTML Academy certificate](https://github.com/Artemiyleb/rsschool-cv/blob/gh-pages/eng-cert.jpg "HTML Academy certificate")
-
+![HTML Academy certificate](https://user-images.githubusercontent.com/95182741/223406369-db5b35fe-13f0-4064-aba7-a0dbed93350a.jpg "HTML Academy certificate")
 ***
 
 ### Languages:
+
 
 English - Intermediate
 
